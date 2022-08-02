@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 Currently learning: React & Spring Security
 - 📫 How to reach me: milakovicmilica@yahoo.com
 
 
